@@ -7,7 +7,7 @@ I am a passionate Backend Engineer with a diverse skill set in various areas of 
 - 🔭 Currently working on backend systems and services.
 - 🌱 Always learning and exploring new technologies.
 - 💬 Ask me about anything related to backend engineering, Android, ML, AI, DL, and databases.
-- 📫 How to reach me: [evangeloskomnisgmail.com](mailto:[evangeloskomnisgmail.com)
+- 📫 How to reach me: [evangeloskomnis@gmail.com](mailto:[evangeloskomnisgmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex problems and optimizing systems for performance and scalability.
 
